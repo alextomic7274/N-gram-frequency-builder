@@ -1,1 +1,1 @@
-# N gram frequency builder
+# N-gram Frequency Builder Application
